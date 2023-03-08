@@ -1,0 +1,11 @@
+C:\Users\ucenik\Documents\Visual Studio Codes\Spremanje_u_txt_datoteku\bin\Debug\Spremanje_u_txt_datoteku.exe.config
+C:\Users\ucenik\Documents\Visual Studio Codes\Spremanje_u_txt_datoteku\bin\Debug\Spremanje_u_txt_datoteku.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\Spremanje_u_txt_datoteku\bin\Debug\Spremanje_u_txt_datoteku.pdb
+C:\Users\ucenik\Documents\Visual Studio Codes\Spremanje_u_txt_datoteku\obj\Debug\Spremanje_u_txt_datoteku.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\Spremanje_u_txt_datoteku\obj\Debug\Spremanje_u_txt_datoteku.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\Spremanje_u_txt_datoteku\obj\Debug\Spremanje_u_txt_datoteku.Form1.resources
+C:\Users\ucenik\Documents\Visual Studio Codes\Spremanje_u_txt_datoteku\obj\Debug\Spremanje_u_txt_datoteku.Properties.Resources.resources
+C:\Users\ucenik\Documents\Visual Studio Codes\Spremanje_u_txt_datoteku\obj\Debug\Spremanje_u_txt_datoteku.csproj.GenerateResource.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\Spremanje_u_txt_datoteku\obj\Debug\Spremanje_u_txt_datoteku.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\Spremanje_u_txt_datoteku\obj\Debug\Spremanje_u_txt_datoteku.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\Spremanje_u_txt_datoteku\obj\Debug\Spremanje_u_txt_datoteku.pdb
